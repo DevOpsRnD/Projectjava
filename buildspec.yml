@@ -9,4 +9,5 @@ phases:
       - java -version
 artifacts:
   files:
+    - appspec.yml
     - '**/*'
